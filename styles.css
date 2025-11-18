@@ -1,6 +1,12 @@
 section {
     margin: 10px;
     margin-left: 150px;
-    border: 1px solid black;
-    border-radius: 15px;
+    border: 1px solid rgb(168, 168, 168);
+    border-radius: 10px;
+}
+
+#slogan {
+    margin-left:30px;
+    font-style: italic;
+    font-size:20px;
 }
